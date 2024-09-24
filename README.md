@@ -1,2 +1,2 @@
 # Projects
-This a folder where we add my daily projects with their code
+This a page where we add my daily projects with their code
